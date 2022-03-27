@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pointCounter</string>
+    <string name="textview">Team A</string>
+    <string name="textview2">Team B</string>
+    <string name="a_score">0</string>
+    <string name="b_score">0</string>
+    <string name="A_1">+1</string>
+    <string name="B_1">+1</string>
+    <string name="A_2">+2</string>
+    <string name="B_2">+2</string>
+    <string name="A_3">+3</string>
+    <string name="B_3">+3</string>
+</resources>

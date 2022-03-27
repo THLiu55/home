@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkslategrey;
+}
+
+.content {
+    background-color: black;
+    border-radius: 5%;
+    color: white;
+    width: fit-content;
+    padding: 5%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.click {
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pib {
+    position: absolute;
+    top: 70%;
+    left: 80%;
+}
+
